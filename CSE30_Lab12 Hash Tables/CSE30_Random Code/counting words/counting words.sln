@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "counting words", "counting words\counting words.vcxproj", "{CD29F26F-E034-4643-857E-07EF554C3D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD29F26F-E034-4643-857E-07EF554C3D71}.Debug|x64.ActiveCfg = Debug|x64
+		{CD29F26F-E034-4643-857E-07EF554C3D71}.Debug|x64.Build.0 = Debug|x64
+		{CD29F26F-E034-4643-857E-07EF554C3D71}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD29F26F-E034-4643-857E-07EF554C3D71}.Debug|x86.Build.0 = Debug|Win32
+		{CD29F26F-E034-4643-857E-07EF554C3D71}.Release|x64.ActiveCfg = Release|x64
+		{CD29F26F-E034-4643-857E-07EF554C3D71}.Release|x64.Build.0 = Release|x64
+		{CD29F26F-E034-4643-857E-07EF554C3D71}.Release|x86.ActiveCfg = Release|Win32
+		{CD29F26F-E034-4643-857E-07EF554C3D71}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF33192-A8A3-4333-85F5-24E6309DFC48}
+	EndGlobalSection
+EndGlobal

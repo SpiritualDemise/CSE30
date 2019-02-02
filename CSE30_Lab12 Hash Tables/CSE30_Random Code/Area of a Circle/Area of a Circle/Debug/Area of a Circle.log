@@ -1,0 +1,4 @@
+﻿  AreaofaCircle.cpp
+c:\users\michael\source\repos\area of a circle\area of a circle\areaofacircle.cpp(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Area of a Circle.vcxproj -> C:\Users\Michael\source\repos\Area of a Circle\Debug\Area of a Circle.exe
+  Area of a Circle.vcxproj -> C:\Users\Michael\source\repos\Area of a Circle\Debug\Area of a Circle.pdb (Partial PDB)
